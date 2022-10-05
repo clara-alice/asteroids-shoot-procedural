@@ -1,1 +1,1 @@
-# asteroids-shoot-procedural
+# asteroids-shooter-procedural
